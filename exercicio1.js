@@ -5,6 +5,9 @@ let idade = prompt ("Escreva sua idade");
 let cerveja = prompt ("Gosta de cerveja? Escreva \"sim\" em caso de que goste ou \"não\" em caso de não gostar");
 
 
+
+
+
 let sim = true;
 let não = false;
 
